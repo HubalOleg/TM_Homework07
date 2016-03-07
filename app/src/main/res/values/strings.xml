@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TM_Homework07</string>
+    <string name="first_tv_text">The Command Palette holds infrequently used functionality, like sorting, changing the syntax and changing the indentation settings. With just a few keystrokes, you can search for what you want, without ever having to navigate through the menus or remember obscure key bindings.</string>
+    <string name="second_tv_text">When you need to focus, Distraction Free Mode is there to help you out. Distraction Free Mode is full screen, chrome free editing, with nothing but your text in the center of the screen. You can incrementally show elements of the UI, such as tabs and the find panel, as you need them.</string>
+    <string name="third_tv_text">Projects in Sublime Text capture the full contents of the workspace, including modified and unsaved files. You can switch between projects in a manner similar to Goto Anything, and the switch is instant, with no save prompts - all your modifications will be restored next time the project is opened.</string>
+    <string name="item_1">Item #01</string>
+    <string name="item_2">Item #02</string>
+    <string name="item_3">Item #03</string>
+    <string name="popup1">Open in new window</string>
+    <string name="popup2">Show in Toast</string>
+    <string name="popup3">Close app</string>
 </resources>
